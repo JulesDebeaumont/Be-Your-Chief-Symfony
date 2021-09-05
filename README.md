@@ -1,5 +1,4 @@
 # *Be Your Chief*
-## FC 2020-2021 Projet Groupe B
 
 Application by:  
 
@@ -23,7 +22,7 @@ Application by:
  - Add `.env.local` to `.gitignore` file
  - In the `.env.local`:
 
-*These settings are suggestions, put whatever you want:*  
+*These settings are suggestions, put whatever you want :*  
 User: `ProjetB`  
 Password: `iutinfo`  
 
