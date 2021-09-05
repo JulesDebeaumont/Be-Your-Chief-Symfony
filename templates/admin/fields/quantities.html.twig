@@ -1,0 +1,12 @@
+{% set url = ea_url()
+    .set('filters[recipe][comparison]',"=")
+    .set('filters[recipe][value]', field.value.owner.id)
+    .setController('App\\Controller\\Admin\\QuantityCrudController')
+    .setAction('index')
+
+%}
+
+{% if field.value|length > 0 %}
+    <a href="{{ url }}">--{{ field.value|length }}--</a>
+{% endif %}
+

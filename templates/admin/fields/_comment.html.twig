@@ -1,0 +1,10 @@
+{% set url = ea_url()
+    .set('filters['~ entity ~ '][comparison]',"=")
+    .set('filters['~ entity ~ '][value]', field.value.owner.id)
+    .setController('App\\Controller\\Admin\\CommentCrudController')
+    .setAction('index')
+%}
+
+{% if field.value|length > 0 %}
+    <a href="{{ url }}">--{{ field.value|length }}--</a>
+{% endif %}

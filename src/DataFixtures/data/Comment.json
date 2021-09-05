@@ -1,0 +1,32 @@
+[
+  {
+    "textComment": "Super recette !!",
+    "dateComment": "2018-12-10T13:49:51+141",
+    "note": 5
+  },
+  {
+    "textComment": "Mon mari à adorer",
+    "dateComment": "2021-11-10T11:00:01+141",
+    "note": 4
+  },
+  {
+    "textComment": "Manque de cuisson, mais original",
+    "dateComment": "2012-02-10T13:49:51+141",
+    "note": 3
+  },
+  {
+    "textComment": "Merci beaucoup pour cette recette, j'ai essayer avec des épices tandori c'était parfait",
+    "dateComment": "2001-05-10T10:30:41+141",
+    "note": 5
+  },
+  {
+    "textComment": "Bonne recette pour étudiant, merci !",
+    "dateComment": "2007-09-26T30:20:41+141",
+    "note": 4
+  },
+  {
+    "textComment": "Marche aussi bien avec des courgettes",
+    "dateComment": "1995-03-01T21:10:41+141",
+    "note": 3
+  }
+]

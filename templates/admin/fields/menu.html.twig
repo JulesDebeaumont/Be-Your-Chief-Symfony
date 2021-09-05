@@ -1,0 +1,5 @@
+{% for type in field.value %}
+    {% if field.value|length > 0 %}
+        <span>|{{ type.name }}|</span>
+    {% endif %}
+{%  endfor %}

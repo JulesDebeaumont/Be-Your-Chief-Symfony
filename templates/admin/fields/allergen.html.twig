@@ -1,0 +1,5 @@
+{% for allergen in field.value %}
+    {% if field.value|length > 0 %}
+        <span>|{{ allergen.name }}|</span>
+    {% endif %}
+{% endfor %}

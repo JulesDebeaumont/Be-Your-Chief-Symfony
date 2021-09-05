@@ -1,0 +1,17 @@
+[
+  {"name": "végan"},
+  {"name": "végétarien"},
+  {"name": "sans-gluten"},
+  {"name": "paléo"},
+  {"name": "cétogène"},
+  {"name": "jeûne intermittent"},
+  {"name": "militaire"},
+  {"name": "pesco-végétarisme"},
+  {"name": "ovo-végétarisme"},
+  {"name": "lacto-végétarisme"},
+  {"name": "ovo-lacto-végétarisme"},
+  {"name": "pollo-végétarisme"},
+  {"name": "rudivorisme"},
+  {"name": "semi-végétarisme"},
+  {"name": "flexitarisme"}
+]

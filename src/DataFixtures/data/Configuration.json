@@ -1,0 +1,16 @@
+[
+  {
+    "theme": 0,
+    "notifComment": true,
+    "notifRecip": false,
+    "notifTrade": true,
+    "moderator": true
+  },
+  {
+    "theme": 0,
+    "notifComment": false,
+    "notifRecip": true,
+    "notifTrade": false,
+    "moderator": false
+  }
+]

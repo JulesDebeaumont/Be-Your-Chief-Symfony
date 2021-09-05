@@ -1,0 +1,10 @@
+{% set url = ea_url()
+    .set('filters[account][comparison]',"=")
+    .set('filters[account][value]', field.value.owner.id)
+    .setController('App\\Controller\\Admin\\FavoriteCrudController')
+    .setAction('index')
+%}
+
+{% if field.value|length > 0 %}
+    <a href="{{ url }}">--{{ field.value|length }}--</a>
+{% endif %}

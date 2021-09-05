@@ -1,0 +1,152 @@
+.Connexion, .Inscription, .InscriptionHome, .Inscription2
+{
+    padding-top: 200px;
+    display: flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    align-items: center;
+    flex: 1;
+    flex-flow: column nowrap;
+    min-height: 100%;
+    color: #e6e6e6;
+    font-size: 25px;
+    text-align: center;
+    align-content: center;
+    padding-bottom: 70px;
+}
+
+.CheckPassword
+{
+    margin-left: 80px;
+    margin-right: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Avoidable
+{
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.Inscription
+{
+    background-image: url('./img/8.jpg');
+}
+
+.InscriptionHome
+{
+    background-image: url('./img/10.jpg');
+}
+
+.Inscription2
+{
+    background-image: url('./img/9.jpg');
+}
+
+.Connexion
+{
+    background-image: url('./img/2.jpg');
+}
+
+html, body
+{
+    height: 100%;
+}
+
+form
+{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+a:visited
+{
+    color: #e6e6e6;
+}
+
+.HeaderBeYourChef
+{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    background: linear-gradient( black , rgba(0,0,0,0));
+    padding: 40px 20px 0px 20px;
+    width: 100%;
+}
+
+.titleLogin
+{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    border-bottom: rgba(255, 255, 255, 0.3) solid 1px;
+}
+
+.LoginFormInputs, .LoginFormInputsRegister
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.LoginFormInputsRegister > form > div, .LoginFormInputsRegister > form
+{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+input
+{
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.allButtons
+{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.allButtons > a
+{
+    text-decoration: none;
+}
+
+.loginButton
+{
+    font-size: 20px;
+    background-color: rgb(27, 27, 27);
+    margin: 10px;
+    padding: 8px;
+    border: solid 1px white;
+    border-radius: 5%;
+    color: #e6e6e6;
+    box-shadow: 0 0 0 0 rgba(255,255,255,1);
+    transition: background-color 0.4s, box-shadow 1s;
+}
+
+.loginButton:hover
+{
+    box-shadow: 0 0 20px -10px #c0c0c0;
+    background-color: rgb(13, 13, 13);
+}
+
+.mediumInput
+{
+    max-width: 200px;
+}

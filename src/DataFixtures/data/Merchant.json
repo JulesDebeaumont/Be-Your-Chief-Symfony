@@ -1,0 +1,68 @@
+[
+  {
+    "email": "pizza.hut-reims@gmail.fr",
+    "password": "iutinfo",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "name": "Pizza Hut",
+    "webSiteLink": "http://pizza.hut.fr/",
+    "imageName": "final.jpg",
+    "description":  "Pizza Hut is a unique restaurant making lovely pizzas!",
+    "address": "3 rue Maurice Hollande",
+    "city" : "Reims",
+    "postalCode" : "51170",
+    "country" : "France"
+  },
+  {
+    "email": "aubuffetdelamer@yahoo.fr",
+    "password": "iutinfo",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "name": "Au buffet de la mer",
+    "webSiteLink": "http://buffetdelamer.fr/",
+    "imageName": "brasserie.jpg",
+    "description" : "Restaurant breton vous accueil dans une ambiance chaleureuse pour les meilleurs produits de la mer",
+    "address" : "21 Rue Albert Louppe",
+    "city" : "Brest",
+    "postalCode" : "29820",
+    "country" : "France"
+  },
+  {
+    "email": "cafédelapaix@gmail.fr",
+    "password": "iutinfo",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "name": "Café de la paix",
+    "webSiteLink": "http://cafedelapaix.fr/",
+    "city" : "Reims",
+    "country" : "England"
+  },
+  {
+    "email": "lebonbon@hotmail.com",
+    "password": "iutinfo",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "name": "Le Bonbon - Paris",
+    "webSiteLink": "http://lebonbon.com/"
+  },
+  {
+    "email": "chezmichel@outlook.com",
+    "password": "iutinfo",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "name": "Chez Michel Brasserie"
+  },
+  {
+    "email": "hardrockcafé-reims@laposte.fr",
+    "password": "iutinfo",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "name": "HardRock Café - Gastronomie"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "email": "admin@outlook.fr",
+    "password": "iutinfo",
+    "roles": [
+      "ROLE_USER",
+      "ROLE_ADMIN"
+    ],
+    "firstname": "Jules",
+    "lastname": "Smith",
+    "description":  "Passioné de cuisine depuis mon plus jeune âge !",
+    "country" : "Québec"
+  },
+  {
+    "email": "urca2021@hotmail.fr",
+    "password": "iutinfo",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "firstname": "Didier",
+    "lastname": "Moulard",
+    "description":  "Cuisinier chez Dragon de Chine à Dijon. Grand fan de cuisine asiatique, je cuisine généralement le soir quand je reçoit du monde.",
+    "country" : "France"
+  },
+  {
+    "email": "meilleurRecettes@yahoo.fr",
+    "password": "iutinfo",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "firstname": "Martine",
+    "lastname": "Duchêne"
+  },
+  {
+    "email": "crepedu51@hotmail.fr",
+    "password": "iutinfo",
+    "roles": [
+      "ROLE_USER",
+      "ROLE_ADMIN"
+    ],
+    "firstname": "Paul",
+    "lastname": "Jaskon"
+  },
+  {
+    "email": "pouletBraisé74@outlook.fr",
+    "password": "iutinfo",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "firstname": "Emilie",
+    "lastname": "Pirault"
+  },
+  {
+    "email": "damienLemaire@yahoo.fr",
+    "password": "iutinfo",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "firstname": "Maurice",
+    "lastname": "Lelong"
+  }
+]

@@ -1,0 +1,30 @@
+    {% extends 'base.html.twig' %}
+
+    {% block body %}
+        <div class="InscriptionHome">
+                {% if app.user %}
+                    <div class="mb-3">
+                        Vous êtes connecté en tant que {{ app.user.username }}, <a href="{{ path('app_logout') }}">Se
+                            déconnecter</a>
+                    </div>
+                {% endif %}
+
+                <h1 class="h3 mb-3 font-weight-normal titleLogin">Inscription à Be Your Chef</h1>
+
+                <div class="allButtons">
+                    <a href="{{ path('app_register_regular') }}" class="btn btn-lg btn-primary loginButton" type="button">
+                        Créer un compte classique
+                    </a>
+
+                    <a href="{{ path('app_register_merchant') }}" class="btn btn-lg btn-primary loginButton" type="button">
+                        Créer un compte marchand
+                    </a>
+
+                    <a href="{{ 'http://localhost:3000' }}" class="btn btn-lg btn-primary loginButton" type="button" style="margin-top: 40px;  background-color: rgb(13, 13, 13);">
+                        Retour
+                    </a>
+
+                </div>
+        </div>
+
+    {% endblock %}

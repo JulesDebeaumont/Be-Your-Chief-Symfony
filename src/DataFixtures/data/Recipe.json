@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Gâteau au chocolat",
+    "description": "Le classique du classique",
+    "prep_time": 30,
+    "cook_time": 20,
+    "serving_nb": 4,
+    "note": 5,
+    "difficulty": 1,
+    "price_lvl": 2,
+    "imageName": "sweet.jpg"
+  },
+  {
+    "name": "Feuilleté au jambon",
+    "description": "Feuilleté traditionnel au jambon et au comté",
+    "prep_time": 30,
+    "cook_time": 10,
+    "serving_nb": 2,
+    "note": 4,
+    "difficulty": 2,
+    "price_lvl": 2,
+    "imageName": "meat.jpg"
+  },
+  {
+    "name": "Salade de la mer",
+    "description": "Salade aux crustacés avec sa vinaigrette personnalisée",
+    "prep_time": 20,
+    "cook_time": 5,
+    "serving_nb": 3,
+    "note": null,
+    "difficulty": 2,
+    "price_lvl": 2,
+    "imageName": "poisson.jpg"
+
+  },
+  {
+    "name": "Fondue savoyarde",
+    "description": "Fondue au fromage de Haute-Savoie",
+    "prep_time": 30,
+    "cook_time": 25,
+    "serving_nb": 5,
+    "note": 5,
+    "difficulty": 1,
+    "price_lvl": 2,
+    "imageName": "gratin.jpg"
+  },
+  {
+    "name": "Oeuf cocotte",
+    "description": "Plât chaud avec jambon, fromage,pomme de terre, œuf, ainsi qu’une sauce à base de crème fraiche, servis dans un plat en fonte",
+    "prep_time": 30,
+    "cook_time": 20,
+    "serving_nb": 4,
+    "note": 5,
+    "difficulty": 2,
+    "price_lvl": 3,
+    "imageName": "egg.jpg"
+  },
+  {
+    "name": "Pâtes carbonara",
+    "description": "Classique de chez classique, revisité avec une carbonara du tonnerre",
+    "prep_time": 20,
+    "cook_time": 18,
+    "serving_nb": 4,
+    "note": 5,
+    "difficulty": 2,
+    "price_lvl": 1,
+    "imageName": "pate.jpg"
+  },
+  {
+    "name": "Galette de falafel",
+    "description": null,
+    "prep_time": 5,
+    "cook_time": null,
+    "serving_nb": 5,
+    "note": 3,
+    "difficulty": 1,
+    "price_lvl": 3,
+    "imageName": "spacy.jpg"
+  },
+  {
+    "name": "Déjeûner Anglais",
+    "description": "Petit-déjeuner typique anglais avec tout ce qui va avec",
+    "prep_time": 10,
+    "cook_time": 5,
+    "serving_nb": 1,
+    "note": 4,
+    "difficulty": 5,
+    "price_lvl": 2,
+    "imageName": "morning.jpg"
+  },
+  {
+    "name": "Les crêpes à Paul",
+    "description": "Chef étoilé qui à fais ses preuves (il a son diplôme), crêpes au sarazin",
+    "prep_time": 15,
+    "cook_time": 10,
+    "serving_nb": 4,
+    "note": 5,
+    "difficulty": 3,
+    "price_lvl": 1,
+    "imageName": "sweet2.jpg"
+  }
+]

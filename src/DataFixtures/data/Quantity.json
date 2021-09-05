@@ -1,0 +1,42 @@
+[
+  {
+    "quantity": "300",
+    "displayOrder": "1",
+    "unit": "gr"
+  },
+  {
+    "quantity": "250",
+    "displayOrder": "1",
+    "unit": "gr"
+  },
+  {
+    "quantity": "10",
+    "displayOrder": "2",
+    "unit": "cL"
+  },
+  {
+    "quantity": "60",
+    "displayOrder": "1",
+    "unit": "gr"
+  },
+  {
+    "quantity": "500",
+    "displayOrder": "1",
+    "unit": "cL"
+  },
+  {
+    "quantity": "120",
+    "displayOrder": "1",
+    "unit": "gr"
+  },
+  {
+    "quantity": "500",
+    "displayOrder": "1",
+    "unit": "cL"
+  },
+  {
+    "quantity": "25",
+    "displayOrder": "2",
+    "unit": "gr"
+  }
+]

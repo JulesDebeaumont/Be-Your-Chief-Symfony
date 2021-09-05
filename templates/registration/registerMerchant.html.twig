@@ -1,0 +1,36 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    {% for flashError in app.flashes('verify_email_error') %}
+        <div class="alert alert-danger" role="alert">{{ flashError }}</div>
+    {% endfor %}
+
+    <div class="Inscription2">
+        <h1 class="titleLogin">Inscription marchand</h1>
+        <div class="LoginFormInputsRegister">
+        {{ form_start(registrationForm) }}
+            {{ form_row(registrationForm.email) }}
+            {{ form_row(registrationForm.plainPassword, {
+                label: 'Password'
+            }) }}
+            {{ form_row(registrationForm.name) }}
+            {{ form_row(registrationForm.webSiteLink) }}
+            {{ form_row(registrationForm.merchantSpecification) }}
+            {{ form_row(registrationForm.merchantType) }}
+            {{ form_row(registrationForm.address) }}
+            {{ form_row(registrationForm.city) }}
+            {{ form_row(registrationForm.postalCode) }}
+        </div>
+        <span class="Avoidable"><i>* champs facultatifs</i></span>
+        <div class="allButtons">
+            <button type="submit" class="btn btn-lg btn-primary loginButton">
+                Enregistrer
+            </button>
+
+            <a href="{{ path('register_home') }}" class="btn btn-lg btn-primary loginButton" type="button" style="margin-top: 30px;  background-color: rgb(13, 13, 13);">
+                Retour
+            </a>
+        </div>
+        {{ form_end(registrationForm) }}
+    </div>
+{% endblock %}

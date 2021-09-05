@@ -1,0 +1,72 @@
+[
+  {
+    "num":1,
+    "descr": "Préchauffez votre four à 180°C (thermostat 6). Dans une casserole, faites fondre le chocolat et le beurre coupé en morceaux à feu très doux.",
+    "name": "Préchauffage du four"
+  },
+  {
+    "num":2,
+    "descr": "Dans un saladier, ajoutez le sucre, les oeufs, la farine. Mélangez.",
+    "name": "Mélanger 1"
+  },
+  {
+    "num":3,
+    "descr": "Ajoutez le mélange chocolat/beurre. Mélangez bien.",
+    "name": "Mélanger 2"
+  },
+  {
+    "num":4,
+    "descr": "Beurrez et farinez votre moule puis y versez la pâte à gâteau.",
+    "name": "Préparation du moule"
+  },
+  {
+    "num":5,
+    "descr": "Faites cuire au four environ 20 minutes. ",
+    "name": "Cuisson"
+  },
+  {
+    "num":6,
+    "descr": "A la sortie du four le gâteau ne paraît pas assez cuit. C'est normal, laissez-le refroidir puis démoulez- le. ",
+    "name": "Démoulage"
+  },
+  {
+    "num":1,
+    "descr": "Coupez les 3 fromages en petits dés.",
+    "name": "Couper le fromage"
+  },
+  {
+    "num":2,
+    "descr": "Frottez le caquelon avec la gousse d'ail et laissez-la dedans.",
+    "name": "le caquelon"
+  },
+  {
+    "num":3,
+    "descr": "Versez 25 cl de vin blanc et faites chauffer.",
+    "name": "le vin blanc"
+  },
+  {
+    "num":4,
+    "descr": "Dans un petit récipient, versez le vin blanc restant (5 cl), la Maïzena et la noix de muscade. Remuez et réservez.",
+    "name": "la sauce"
+  },
+  {
+    "num":5,
+    "descr": "Lorsque le vin 'frétille', versez le fromage (en plusieurs fois) sans cesser de remuer (avec une spatule en bois) sur feu doux/moyen.",
+    "name": "Cuisson"
+  },
+  {
+    "num":6,
+    "descr": "Lorsque le fromage est bien fondu, versez le verre vin/Maïzena/muscade et continuez de remuer doucement.",
+    "name": "verser la sauce"
+  },
+  {
+    "num":7,
+    "descr": "La préparation commence à être onctueuse et mousseuse, toujours un peu liquide. Poivrez et versez le kirsch. C'est prêt à servir!",
+    "name": "Verser le kirsh"
+  },
+  {
+    "num":8,
+    "descr": "Le jaune d'oeuf est à mettre dans le caquelon lorsqu'il ne reste plus de liquide, afin de récupérer le reste du fromage au fond.",
+    "name": "Ajout du jaune"
+  }
+]

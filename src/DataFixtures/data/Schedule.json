@@ -1,0 +1,30 @@
+[
+  {
+    "monday": "08:00 to 12:00",
+    "tuesday": "10:00 to 15:00",
+    "wednesday": "10:00 to 16:00",
+    "thursday": "08:00 to 09:00",
+    "friday": "closed",
+    "saturday": "closed",
+    "sunday": "05:00 to 19:00"
+  },
+  {
+    "monday": "10:00 to 16:00",
+    "tuesday": "10:00 to 9:00",
+    "wednesday": "closed",
+    "thursday": "08:00 to 16:00",
+    "friday": "18:00 to 23:00",
+    "saturday": "14:00 to 22:30",
+    "sunday": "04:00 to 14:00"
+  },
+  {
+    "monday": "",
+    "tuesday": "",
+    "wednesday": "",
+    "thursday": "",
+    "friday": "",
+    "saturday": "10:00 to 22:30",
+    "sunday": "04:00 to 23:00"
+  }
+
+]
